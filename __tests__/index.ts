@@ -34,12 +34,6 @@ describe("video-date-corrector", () => {
     }
   });
 
-  it.todo("reads a directory and orders files by name");
-  // Test Videos
-  //
-
-  it.todo("takes the last file and gets its timestamp");
-
   it.todo(
     "adjusts the time of the first file + 17h and sets that as base time"
   );
